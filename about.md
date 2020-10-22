@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
+title: About Alex
 permalink: /about/
 ---
 
-Some information about you!
+For the love of data-backed business decision
 
-### More Information
+### More about me
 
-A place to include any other types of information that you'd like to include about yourself.
+Oh, and I love pizza!
 
 ### Contact me
 
