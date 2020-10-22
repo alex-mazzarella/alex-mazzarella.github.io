@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A guide for nist Data Science beginners!
+title: A guide for Data Science beginners!
 ---
 
 ## Intro 
